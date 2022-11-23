@@ -1,0 +1,190 @@
+.bg-orange {
+    background-color: black !important;
+    border-radius: 15px;
+}
+
+.nav-item a.active {
+    color: rgb(24, 20, 19) !important;
+}
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+  }
+  
+  .container {
+    width: 1200px;
+    background-color: #fff;
+    display: flex;
+    box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+  }
+  .container .card {
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    flex: 30%;
+    text-align: center;
+  }
+  
+  .container .card p {
+    margin: 3px;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  
+  .container .content {
+    padding-top: 45px;
+    padding-left: 35px;
+    padding-right: 75px;
+    text-align: justify;
+  }
+  .btn-detail {
+    border-radius: 18px;
+    padding: 6px 30px;
+    background-color: black;
+    color: white;
+    margin-top: 25px;
+  }
+  
+  .text2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .card-content {
+    margin: 0 auto;
+    width: 350px;
+    border: none;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 100px 317px rgba(0, 0, 0, 0.11);
+  }
+  .fa {
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    margin: 7px 5px;
+    border-radius: 50%;
+  }
+  
+  
+  /* end info */
+
+  .blog {
+    width: 100%;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
+
+.output-myproject {
+    text-align: center;
+   
+}
+
+.post-blog {
+    width: 85%;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+.card-blog {
+    width: 25%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 0px 10px;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.content-blog {
+    background-color: white;
+    width: 90%;
+    margin: 15px auto;
+    font-size: 10px;
+    padding-bottom: 15px;
+}
+
+.thumbnail img {
+    width: 100%;
+    margin-top: 15px;
+}
+
+.title-blog {
+    margin-top: 15px;
+   
+}
+
+.description-output {
+    margin-top: 20px;
+}
+
+.technologies-output {
+    margin-top: 20px;
+    display: flex;
+}
+
+.technologies-output img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.opsi-blog{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.edit-blog {
+    width: 49.5%;
+    height: 20px;
+    background-color: #111727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.edit-blog a {
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(238, 237, 237);
+}
+
+.delete-blog {
+    width: 49.5%;
+    height: 20px;
+    background-color: #111727;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.delete-blog a {
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(238, 237, 237);
+}
+
+
+.card-blog a {
+    text-decoration: none;
+    color: black;
+}
+
+.title-blog p {
+    color: rgb(103, 103, 103);
+}
+
+.edit-blog a, .delete-blog a {
+    color: white;
+}
+  
